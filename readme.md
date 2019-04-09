@@ -11,4 +11,7 @@ npm install
 node app.js
 
 ## Python file
-There is a python file which scrapes the web and stores an JSON file containning all the data required for the API.
+There is a python script file which automatically scrapes the web and creates an JSON file containning all the data required for the API.
+
+## rest.js file
+This file is incharge of pushing all the Data collected using Python to MongoDB. Simply pushing data one by one in a loop.
