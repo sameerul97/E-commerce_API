@@ -26,8 +26,13 @@ http://ecomapi.sameerul.com:3009/mostlyreviewed
 ### All phone
 http://ecomapi.sameerul.com:3009/allphone
 ### Get a phone
-  * requires "mobileId"
+*Requires mobile ID*
+```js
+    mobileId = 110;
+    http://ecomapi.sameerul.com:3009/getPhone/+mobileID
+```
 http://ecomapi.sameerul.com:3009/getPhone/110
+
 ^ Above routes includes full and top specfication.
 ### Get auestion and answers for a phone
 http://ecomapi.sameerul.com:3009/productReview/121
