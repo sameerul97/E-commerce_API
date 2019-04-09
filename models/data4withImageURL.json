@@ -1,0 +1,1031 @@
+{
+    "phones": [
+        {
+            "mobileStock": "Now In Stock",
+            "fullSpec": {
+                "Mobile Weight": "201 g",
+                "Screen Size (Diagonal)": "6.4 Inch",
+                "Stero bluetooth (A2DP)": "Yes",
+                "Resolutions": "1440 x 2960 pixels",
+                "WLan/WiFi Support": "Yes",
+                "Camera auto focus": "Yes",
+                "USB": "Type-C 1.0 reversible connector",
+                "Capacity": "4000mAh",
+                "Connection type headset": "3.5 mm",
+                "Display type": "Super AMOLED capacitive touchscreen, 16M colors",
+                "USB version": "3.1",
+                "Video Recording": "Yes",
+                "Camera resolution ": "12 Megapixels",
+                "Dimension": "161.9 x 76.4 x 8.8 mm",
+                "Additional Internal Storage": "Up to 512 GB",
+                "Memory Card Type": "microSD (uses SIM 2 slot) - dual SIM model only",
+                "Bluetooth version": "5.0 A2DP, LE, aptX"
+            },
+            "sizeVariant": {
+                "size3": "256 GB",
+                "size1": "64 GB",
+                "size2": "128 GB"
+            },
+            "mobilePrice": 767,
+            "mobileId": 100,
+            "mobileName": "Samsung Galaxy Note 9 (2018)",
+            "imageUrl": "https://eshop.lycamobile.co.uk/pub/media/catalog/product/cache/c687aa7517cf01e65c009f6943c2b1e9/s/a/samsung-galaxy-note-9-front.jpg",
+            "topSpec": {
+                "os": "Android",
+                "camera": "12 Megapixels",
+                "display": "Super AMOLED",
+                "storage": "128 GB / 512 GB",
+                "battery": "4000mAh"
+            },
+            "colourVariant": {
+                "colour1": "Silver"
+            }
+        },
+        {
+            "mobileStock": "Now In Stock",
+            "fullSpec": {
+                "Mobile Weight": "163g",
+                "Screen Size (Diagonal)": "5.8 Inches",
+                "Stero bluetooth (A2DP)": "Yes",
+                "Resolutions": "1440 x 2960 pixels",
+                "WLan/WiFi Support": "Yes",
+                "Camera auto focus": "Yes",
+                "USB": "3.1, Type-C 1.0 reversible connector",
+                "Capacity": "3,000mAh",
+                "Connection type headset": "3.5 mm",
+                "Display type": "Super AMOLED capacitive touchscreen, 16M colors",
+                "USB version": "3.1",
+                "Video Recording": "Yes",
+                "Camera resolution ": "Dual 12 Megapixels",
+                "Dimension": "147.7 x 68.7 x 8.5 mm",
+                "Additional Internal Storage": "up to 400 GB",
+                "Memory Card Type": "microSD",
+                "Bluetooth version": "5.0"
+            },
+            "sizeVariant": {
+                "size3": "256 GB",
+                "size1": "64 GB",
+                "size2": "128 GB"
+            },
+            "mobilePrice": 504,
+            "mobileId": 101,
+            "mobileName": "Samsung Galaxy S9 (Single SIM)",
+            "imageUrl": "https://eshop.lycamobile.co.uk/pub/media/catalog/product/cache/c687aa7517cf01e65c009f6943c2b1e9/s/a/samsung-s9-singlesim-black-front.jpg",
+            "topSpec": {
+                "os": "Android",
+                "camera": "Dual 12 Megapixels",
+                "display": "Super AMOLED",
+                "storage": "64GB",
+                "battery": "3,000mAh"
+            },
+            "colourVariant": {
+                "colour1": "Silver"
+            }
+        },
+        {
+            "mobileStock": "Now In Stock",
+            "fullSpec": {
+                "Mobile Weight": "189g",
+                "Screen Size (Diagonal)": "6.2 inches",
+                "Stero bluetooth (A2DP)": "Yes",
+                "Resolutions": "1440 x 2960 pixels",
+                "WLan/WiFi Support": "Yes",
+                "Camera auto focus": "Yes",
+                "USB": "3.1, Type-C 1.0 reversible connector",
+                "Capacity": "3,500mAh",
+                "Connection type headset": "3.5 mm",
+                "Display type": "Super AMOLED capacitive touchscreen, 16M colors",
+                "USB version": "3.1",
+                "Video Recording": "Yes",
+                "Camera resolution ": "Dual 12 Megapixels",
+                "Dimension": "158.1 x 73.8 x 8.5 mm",
+                "Additional Internal Storage": "up to 400 GB",
+                "Memory Card Type": "microSD",
+                "Bluetooth version": "5.0, A2DP, LE, aptX"
+            },
+            "sizeVariant": {
+                "size3": "256 GB",
+                "size1": "64 GB",
+                "size2": "128 GB"
+            },
+            "mobilePrice": 623,
+            "mobileId": 102,
+            "mobileName": "Samsung Galaxy S9+ (Single SIM)",
+            "imageUrl": "https://eshop.lycamobile.co.uk/pub/media/catalog/product/cache/c687aa7517cf01e65c009f6943c2b1e9/s/a/samsung-s9-singlesim-black-front.jpg",
+            "topSpec": {
+                "os": "Android",
+                "camera": "Dual 12 Megapixels",
+                "display": "Super AMOLED",
+                "storage": "128GB",
+                "battery": "3,500mAh"
+            },
+            "colourVariant": {
+                "colour1": "Silver"
+            }
+        },
+        {
+            "mobileStock": "Now In Stock",
+            "fullSpec": {
+                "Mobile Weight": "173 g",
+                "Screen Size (Diagonal)": "6.2 Inch",
+                "Stero bluetooth (A2DP)": "Yes",
+                "Resolutions": "1440 x 2960 pixels",
+                "WLan/WiFi Support": "Yes",
+                "Camera auto focus": "Yes",
+                "USB": "3.1, Type-C 1.0 reversible connector",
+                "Capacity": "3,500mAh",
+                "Connection type headset": "3.5 mm",
+                "Display type": "Super AMOLED capacitive touchscreen",
+                "USB version": "3.1",
+                "Video Recording": "Yes",
+                "Camera resolution ": "12 Megapixels",
+                "Dimension": "159.5 x 73.4 x 8.1 mm",
+                "Additional Internal Storage": "up to 256 GB",
+                "Memory Card Type": "microSD",
+                "Bluetooth version": "5.0"
+            },
+            "sizeVariant": {
+                "size3": "256 GB",
+                "size1": "64 GB",
+                "size2": "128 GB"
+            },
+            "mobilePrice": 478,
+            "mobileId": 103,
+            "mobileName": "Samsung Galaxy S8+",
+            "imageUrl": "https://eshop.lycamobile.co.uk/pub/media/catalog/product/cache/c687aa7517cf01e65c009f6943c2b1e9/i/m/image_148_257_2.jpg",
+            "topSpec": {
+                "os": "Android",
+                "camera": "12 Megapixels",
+                "display": "Super AMOLED",
+                "storage": "64GB",
+                "battery": "3,500mAh"
+            },
+            "colourVariant": {
+                "colour1": "Silver"
+            }
+        },
+        {
+            "mobileStock": "Now In Stock",
+            "fullSpec": {
+                "Mobile Weight": "154g",
+                "Screen Size (Diagonal)": "5.6 Inch",
+                "Stero bluetooth (A2DP)": "Yes",
+                "WLan/WiFi Support": "Yes",
+                "Camera auto focus": "Yes",
+                "USB": "microUSB 2.0 / USB On-The-Go",
+                "Capacity": "3000 mAh",
+                "Camera resolution ": "13 Megapixels",
+                "Display type": "Super AMOLED capacitive touchscreen,16M colors",
+                "Video Recording": "Yes",
+                "Dimension": "149.3 x 70.2 x 8.2 mm",
+                "Additional Internal Storage": "up to 256 GB",
+                "Memory Card Type": "microSD (dedicated slot)"
+            },
+            "sizeVariant": {
+                "size3": "256 GB",
+                "size1": "64 GB",
+                "size2": "128 GB"
+            },
+            "mobilePrice": 162,
+            "mobileId": 104,
+            "mobileName": "Samsung Galaxy J6 J600F",
+            "imageUrl": "https://eshop.lycamobile.co.uk/pub/media/catalog/product/cache/c687aa7517cf01e65c009f6943c2b1e9/s/a/samsung-galaxy-j6-sm-j600f-b-front.jpg",
+            "topSpec": {
+                "os": "Android",
+                "camera": "13 Megapixels",
+                "display": "Super AMOLED",
+                "storage": "32GB / 64GB",
+                "battery": "3000 mAh"
+            },
+            "colourVariant": {
+                "colour1": "Silver"
+            }
+        },
+        {
+            "mobileStock": "Now In Stock",
+            "fullSpec": {
+                "Mobile Weight": "186g",
+                "USB version": " 2.0",
+                "Stero bluetooth (A2DP)": "Yes",
+                "WLan/WiFi Support": "Yes",
+                "Camera auto focus": "Yes",
+                "USB": "microUSB",
+                "Capacity": "3500mAh",
+                "Camera resolution ": "16 Megapixels",
+                "Display type": "Super AMOLED capacitive touchscreen,16M colors",
+                "Screen Size (Diagonal)": "6.0 Inch",
+                "Video Recording": "Yes",
+                "Dimension": "160.2 x 75.7 x 7.9 mm",
+                "Additional Internal Storage": "up to 256 GB",
+                "Memory Card Type": "microSD (dedicated slot)"
+            },
+            "sizeVariant": {
+                "size3": "256 GB",
+                "size1": "64 GB",
+                "size2": "128 GB"
+            },
+            "mobilePrice": 214,
+            "mobileId": 105,
+            "mobileName": "Samsung Galaxy A6 Plus Dual-SIM",
+            "imageUrl": "https://eshop.lycamobile.nl/wp-content/uploads/2018/10/Lavender-Front.jpg",
+            "topSpec": {
+                "os": "Android",
+                "camera": "16 Megapixels",
+                "display": "Super AMOLED",
+                "storage": "32GB",
+                "battery": "3500mAh"
+            },
+            "colourVariant": {
+                "colour1": "Silver"
+            }
+        },
+        {
+            "mobileStock": "Now In Stock",
+            "fullSpec": {
+                "Mobile Weight": "155g",
+                "Screen Size (Diagonal)": "5.8 Inch",
+                "Stero bluetooth (A2DP)": "Yes",
+                "Resolutions": "1440 x 2960 pixels",
+                "WLan/WiFi Support": "Yes",
+                "Camera auto focus": "Yes",
+                "USB": "3.1, Type-C 1.0 reversible connector",
+                "Capacity": "3,000mAh",
+                "Connection type headset": "3.5 mm",
+                "Display type": "Super AMOLED capacitive touchscreen, 16M colors",
+                "USB version": "3.1",
+                "Video Recording": "Yes",
+                "Camera resolution ": "12 Megapixels",
+                "Dimension": "148.9 x 68.1 x 8 mm",
+                "Additional Internal Storage": "up to 256 GB",
+                "Memory Card Type": "microSD",
+                "Bluetooth version": "5.0"
+            },
+            "sizeVariant": {
+                "size3": "256 GB",
+                "size1": "64 GB",
+                "size2": "128 GB"
+            },
+            "mobilePrice": 407,
+            "mobileId": 106,
+            "mobileName": "Samsung Galaxy S8",
+            "imageUrl": "https://eshop.lycamobile.co.uk/pub/media/catalog/product/cache/c687aa7517cf01e65c009f6943c2b1e9/i/m/image_148_257_2.jpg",
+            "topSpec": {
+                "os": "Android",
+                "camera": "12 Megapixels",
+                "display": "Super AMOLED",
+                "storage": "64GB",
+                "battery": "3,000mAh"
+            },
+            "colourVariant": {
+                "colour1": "Silver"
+            }
+        },
+        {
+            "mobileStock": "Now In Stock",
+            "fullSpec": {
+                "Mobile Weight": "178 g",
+                "USB version": "2.0",
+                "Stero bluetooth (A2DP)": "Yes",
+                "Resolutions": "720 x 1480 pixels",
+                "WLan/WiFi Support": "Yes",
+                "Camera auto focus": "Yes",
+                "USB": "Micro USB",
+                "Capacity": "3300 mAh",
+                "Camera resolution ": "13 Megapixels",
+                "Display type": "IPS LCD capacitive touchscreen, 16M colors",
+                "Screen Size (Diagonal)": "6.0 Inch",
+                "Video Recording": "Yes",
+                "Dimension": "161.4 x 76.9 x 7.9 mm",
+                "Additional Internal Storage": "512 GB",
+                "Memory Card Type": "microSD"
+            },
+            "sizeVariant": {
+                "size3": "256 GB",
+                "size1": "64 GB",
+                "size2": "128 GB"
+            },
+            "mobilePrice": 189,
+            "mobileId": 107,
+            "mobileName": "Samsung Galaxy J6 Plus 2018",
+            "imageUrl": "https://eshop.lycamobile.co.uk/pub/media/catalog/product/cache/c687aa7517cf01e65c009f6943c2b1e9/s/a/samsung-galaxy-j6-sm-j600f-b-front.jpg",
+            "topSpec": {
+                "os": "Android",
+                "camera": "13 Megapixels",
+                "display": "IPS LCD",
+                "storage": "64GB",
+                "battery": "3300 mAh"
+            },
+            "colourVariant": {
+                "colour1": "Silver"
+            }
+        },
+        {
+            "mobileStock": "Now In Stock",
+            "fullSpec": {
+                "Mobile Weight": "195 g",
+                "Screen Size (Diagonal)": "6.3 Inch",
+                "Stero bluetooth (A2DP)": "Yes",
+                "Resolutions": "1440 x 2960 pixels",
+                "WLan/WiFi Support": "Yes",
+                "Camera auto focus": "Yes",
+                "USB": "3.1,Type-C 1.0 reversible connector",
+                "Capacity": "3300mAh",
+                "Connection type headset": "3.5 mm",
+                "Display type": "Super AMOLED capacitive touchscreen, 16M colors",
+                "USB version": "3.1",
+                "Video Recording": "Yes",
+                "Camera resolution ": "12 Megapixels",
+                "Dimension": "162.5 x 74.8 x 8.6 mm",
+                "Additional Internal Storage": "up to 256 GB",
+                "Memory Card Type": "MicroSD",
+                "Bluetooth version": "5.0"
+            },
+            "sizeVariant": {
+                "size3": "256 GB",
+                "size1": "64 GB",
+                "size2": "128 GB"
+            },
+            "mobilePrice": 550,
+            "mobileId": 108,
+            "mobileName": "Samsung Galaxy Note 8",
+            "imageUrl": "https://eshop.lycamobile.co.uk/pub/media/catalog/product/cache/c687aa7517cf01e65c009f6943c2b1e9/s/m/sm-note8-2.jpg",
+            "topSpec": {
+                "os": "Android",
+                "camera": "12 Megapixels",
+                "display": "Super AMOLED",
+                "storage": "64 GB",
+                "battery": "3300mAh"
+            },
+            "colourVariant": {
+                "colour1": "Silver"
+            }
+        },
+        {
+            "mobileStock": "Now In Stock",
+            "fullSpec": {
+                "Mobile Weight": "159 g",
+                "USB version": " 2.0",
+                "Stero bluetooth (A2DP)": "Yes",
+                "WLan/WiFi Support": "Yes",
+                "Camera auto focus": "Yes",
+                "USB": "microUSB",
+                "Capacity": "3000 mAh",
+                "Camera resolution ": "16 Megapixels",
+                "Display type": "Super AMOLED capacitive touchscreen,16M colors",
+                "Screen Size (Diagonal)": "5.6 Inch",
+                "Video Recording": "Yes",
+                "Dimension": "149.9 x 70.8 x 7.7 mm",
+                "Additional Internal Storage": "up to 256 GB",
+                "Memory Card Type": "microSD up to 256 GB (dedicated slot)"
+            },
+            "sizeVariant": {
+                "size3": "256 GB",
+                "size1": "64 GB",
+                "size2": "128 GB"
+            },
+            "mobilePrice": 214,
+            "mobileId": 109,
+            "mobileName": "Samsung Galaxy A6 A600F",
+            "imageUrl": "https://eshop.lycamobile.nl/wp-content/uploads/2018/10/Lavender-Front.jpg",
+            "topSpec": {
+                "os": "Android",
+                "camera": "16 Megapixels",
+                "display": "Super AMOLED",
+                "storage": "32GB / 64GB",
+                "battery": "3000 mAh"
+            },
+            "colourVariant": {
+                "colour1": "Silver"
+            }
+        },
+        {
+            "mobileStock": "Now In Stock",
+            "fullSpec": {
+                "Mobile Weight": "157g",
+                "USB version": "2.0",
+                "Stero bluetooth (A2DP)": "Yes",
+                "WLan/WiFi Support": "Yes",
+                "Camera auto focus": "Yes",
+                "USB": "Micro USB",
+                "Capacity": "3600mAh",
+                "Connection type headset": "3.5 mm",
+                "Display type": "Super AMOLED capacitive touchscreen, 16M colors",
+                "Screen Size (Diagonal)": "5.5 Inch",
+                "Video Recording": "Yes",
+                "Camera resolution ": "12 Megapixels",
+                "Dimension": "150.9 x 72.6 x 7.7 mm",
+                "Additional Internal Storage": "up to 256 GB",
+                "Memory Card Type": "microSD"
+            },
+            "sizeVariant": {
+                "size3": "256 GB",
+                "size1": "64 GB",
+                "size2": "128 GB"
+            },
+            "mobilePrice": 382,
+            "mobileId": 110,
+            "mobileName": "Samsung Galaxy S7 Edge",
+            "imageUrl": "https://eshop.lycamobile.co.uk/pub/media/catalog/product/cache/c687aa7517cf01e65c009f6943c2b1e9/i/m/image_145_190.jpg",
+            "topSpec": {
+                "os": "Android",
+                "camera": "12 Megapixels",
+                "display": "Super AMOLED",
+                "storage": "32GB",
+                "battery": "3600mAh"
+            },
+            "colourVariant": {
+                "colour1": "Silver"
+            }
+        },
+        {
+            "mobileStock": "Now In Stock",
+            "fullSpec": {
+                "Mobile Weight": "157 g",
+                "Screen Size (Diagonal)": "5.5 Inch",
+                "Stero bluetooth (A2DP)": "Yes",
+                "WLan/WiFi Support": "Yes",
+                "Camera auto focus": "Yes",
+                "USB": "microUSB 2.0",
+                "Capacity": "3600 mAh",
+                "Connection type headset": "3.5 mm",
+                "Display type": "Super AMOLED capacitive touchscreen",
+                "USB version": "microUSB 2.0",
+                "Video Recording": "Yes",
+                "Camera resolution ": "12 Megapixels",
+                "Dimension": "150.9 x 72.6 x 7.7 mm",
+                "Additional Internal Storage": "up to 256 GB",
+                "Memory Card Type": "microSD",
+                "Bluetooth version": "4.2"
+            },
+            "sizeVariant": {
+                "size3": "256 GB",
+                "size1": "64 GB",
+                "size2": "128 GB"
+            },
+            "mobilePrice": 286,
+            "mobileId": 111,
+            "mobileName": "Samsung Galaxy S7",
+            "imageUrl": "https://eshop.lycamobile.co.uk/pub/media/catalog/product/cache/c687aa7517cf01e65c009f6943c2b1e9/i/m/image_146_194.jpg",
+            "topSpec": {
+                "os": "Android",
+                "camera": "12 Megapixels",
+                "display": "Super AMOLED",
+                "storage": "32GB",
+                "battery": "3600 mAh"
+            },
+            "colourVariant": {
+                "colour1": "Silver"
+            }
+        },
+        {
+            "mobileStock": "Now In Stock",
+            "fullSpec": {
+                "Mobile Weight": "172 g",
+                "Screen Size (Diagonal)": "5.6 Inch",
+                "Stero bluetooth (A2DP)": "Yes",
+                "Resolutions": "1080 x 2220 pixels",
+                "WLan/WiFi Support": "Yes",
+                "Camera auto focus": "Yes",
+                "USB": "Type-C 1.0 reversible connector",
+                "Capacity": "3000mAh",
+                "Connection type headset": "3.5 mm",
+                "Display type": "Super AMOLED capacitive touchscreen, 16M colors",
+                "USB version": "2.0",
+                "Video Recording": "Yes",
+                "Camera resolution ": "16 Megapixels",
+                "Dimension": "149.2 x 70.6 x 8.4 mm",
+                "Additional Internal Storage": "up to 256 GB",
+                "Memory Card Type": "MicroSD",
+                "Bluetooth version": "4.2"
+            },
+            "sizeVariant": {
+                "size3": "256 GB",
+                "size1": "64 GB",
+                "size2": "128 GB"
+            },
+            "mobilePrice": 286,
+            "mobileId": 112,
+            "mobileName": "Samsung A530F A8 2018(single sim)",
+            "imageUrl": "https://eshop.lycamobile.co.uk/pub/media/catalog/product/cache/c687aa7517cf01e65c009f6943c2b1e9/s/m/smg-a8-a530f-front.jpg",
+            "topSpec": {
+                "os": "Android",
+                "camera": "16 Megapixels",
+                "display": "Super AMOLED",
+                "storage": "32 GB",
+                "battery": "3000mAh"
+            },
+            "colourVariant": {
+                "colour1": "Silver"
+            }
+        },
+        {
+            "mobileStock": "Now In Stock",
+            "fullSpec": {
+                "Mobile Weight": "160 g",
+                "USB version": "2.0",
+                "Stero bluetooth (A2DP)": "Yes",
+                "Resolutions": "720 x 1280 pixels",
+                "WLan/WiFi Support": "Yes",
+                "Camera auto focus": "Yes",
+                "USB": "Micro USB",
+                "Capacity": "3000 mAh",
+                "Camera resolution ": "13 Megapixels",
+                "Display type": "Super AMOLED capacitive touchscreen, 16M colors",
+                "Screen Size (Diagonal)": "5.2 Inch",
+                "Video Recording": "Yes",
+                "Dimension": "146.2 x 71.3 x 8 mm",
+                "Additional Internal Storage": "256 GB",
+                "Memory Card Type": "microSD"
+            },
+            "sizeVariant": {
+                "size3": "256 GB",
+                "size1": "64 GB",
+                "size2": "128 GB"
+            },
+            "mobilePrice": 154,
+            "mobileId": 113,
+            "mobileName": "Samsung Galaxy J5 (2017)",
+            "imageUrl": "https://eshop.lycamobile.co.uk/pub/media/catalog/product/cache/c687aa7517cf01e65c009f6943c2b1e9/i/m/image_144_270.png",
+            "topSpec": {
+                "os": "Android",
+                "camera": "13 Megapixels",
+                "display": "Super AMOLED",
+                "storage": "16GB",
+                "battery": "3000 mAh"
+            },
+            "colourVariant": {
+                "colour1": "Silver"
+            }
+        },
+        {
+            "mobileStock": "Now In Stock",
+            "fullSpec": {
+                "Mobile Weight": "142 g",
+                "USB version": "2.0",
+                "Stero bluetooth (A2DP)": "Yes",
+                "Resolutions": "720 x 1280 pixels",
+                "WLan/WiFi Support": "Yes",
+                "Camera auto focus": "Yes",
+                "USB": "Micro USB",
+                "Capacity": "2600mAh",
+                "Camera resolution ": "8 Megapixels",
+                "Display type": "Super AMOLED capacitive touchscreen, 16M colors",
+                "Screen Size (Diagonal)": "5.0 Inch",
+                "Video Recording": "Yes",
+                "Dimension": "142.3 x 71 x 7.9 mm",
+                "Additional Internal Storage": "up to 256GB",
+                "Memory Card Type": "MicroSD",
+                "Bluetooth version": "4.0/4.1"
+            },
+            "sizeVariant": {
+                "size3": "256 GB",
+                "size1": "64 GB",
+                "size2": "128 GB"
+            },
+            "mobilePrice": 118,
+            "mobileId": 114,
+            "mobileName": "Samsung Galaxy J3 (2016)",
+            "imageUrl": "https://eshop.lycamobile.co.uk/pub/media/catalog/product/cache/c687aa7517cf01e65c009f6943c2b1e9/i/m/image_168_247.png",
+            "topSpec": {
+                "os": "Android",
+                "camera": "8 Megapixels",
+                "display": "Super AMOLED",
+                "storage": "8GB",
+                "battery": "2600mAh"
+            },
+            "colourVariant": {
+                "colour1": "Silver"
+            }
+        },
+        {
+            "mobileStock": "Now In Stock",
+            "fullSpec": {
+                "Mobile Weight": "157g",
+                "Screen Size (Diagonal)": "5.2 Inch",
+                "Stero bluetooth (A2DP)": "Yes",
+                "WLan/WiFi Support": "Yes",
+                "Camera auto focus": "Yes",
+                "USB": "2.0, Type-C 1.0 reversible connector",
+                "Capacity": "3,000 mAh",
+                "Camera resolution ": "16 Megapixels",
+                "Display type": "Super AMOLED capacitive touchscreen, 16M colors",
+                "Video Recording": "Yes",
+                "Dimension": "146.1 x 71.4 x 7.9 mm",
+                "Additional Internal Storage": "up to 256 GB",
+                "Memory Card Type": "microSD, up to 256 GB (dedicated slot)"
+            },
+            "sizeVariant": {
+                "size3": "256 GB",
+                "size1": "64 GB",
+                "size2": "128 GB"
+            },
+            "mobilePrice": 234,
+            "mobileId": 115,
+            "mobileName": "Samsung Galaxy A5 (2017)",
+            "imageUrl": "https://eshop.lycamobile.co.uk/pub/media/catalog/product/cache/c687aa7517cf01e65c009f6943c2b1e9/i/m/image_142_262.jpg",
+            "topSpec": {
+                "os": "Android",
+                "camera": "16 Megapixels",
+                "display": "Super AMOLED",
+                "storage": "32GB",
+                "battery": "3,000 mAh"
+            },
+            "colourVariant": {
+                "colour1": "Silver"
+            }
+        },
+        {
+            "mobileStock": "Now In Stock",
+            "fullSpec": {
+                "Mobile Weight": "138g",
+                "Screen Size (Diagonal)": "4.7 Inch",
+                "Dimension": "135.4 x 66.2 x 7.9 mm",
+                "WLan/WiFi Support": "Yes",
+                "Camera auto focus": "Yes",
+                "USB": "2.0, Type-C 1.0 reversible connector",
+                "Capacity": "2,350 mAh",
+                "Connection type headset": "3.5 mm",
+                "Display type": "Super AMOLED capacitive touchscreen, 16M colors",
+                "USB version": "2.0, Type-C 1.0 reversible connector",
+                "Video Recording": "Yes",
+                "Camera resolution ": "13 Megapixels",
+                "Additional Internal Storage": "up to 256 GB",
+                "Memory Card Type": "MicroSD",
+                "Bluetooth version": "4.2"
+            },
+            "sizeVariant": {
+                "size3": "256 GB",
+                "size1": "64 GB",
+                "size2": "128 GB"
+            },
+            "mobilePrice": 198,
+            "mobileId": 116,
+            "mobileName": "Samsung Galaxy A3 (2017)",
+            "imageUrl": "https://eshop.lycamobile.co.uk/pub/media/catalog/product/cache/c687aa7517cf01e65c009f6943c2b1e9/i/m/image_141_176.jpg",
+            "topSpec": {
+                "os": "Android",
+                "camera": "13 Megapixels",
+                "display": "Super AMOLED",
+                "storage": "16GB",
+                "battery": "2,350 mAh"
+            },
+            "colourVariant": {
+                "colour1": "Silver"
+            }
+        },
+        {
+            "mobileStock": "Now In Stock",
+            "fullSpec": {
+                "Mobile Weight": "142 g",
+                "Screen Size (Diagonal)": "5 Inch",
+                "Stero bluetooth (A2DP)": "Yes",
+                "Resolutions": "720 x 1280 pixels",
+                "WLan/WiFi Support": "Yes",
+                "Camera auto focus": "Yes",
+                "USB": "Micro USB",
+                "Capacity": "2400mAh",
+                "Connection type headset": "3.5 mm",
+                "Display type": "PLS capacitive touchscreen, 16M colors",
+                "USB version": "2.0",
+                "Video Recording": "Yes",
+                "Camera resolution ": "13 Megapixels",
+                "Dimension": "143.2 x 70.3 x 8.2 mm",
+                "Additional Internal Storage": "up to 256GB",
+                "Memory Card Type": "MicroSD",
+                "Bluetooth version": "4.2"
+            },
+            "sizeVariant": {
+                "size3": "256 GB",
+                "size1": "64 GB",
+                "size2": "128 GB"
+            },
+            "mobilePrice": 130,
+            "mobileId": 117,
+            "mobileName": "Samsung Galaxy J3 (2017)",
+            "imageUrl": "https://eshop.lycamobile.co.uk/pub/media/catalog/product/cache/c687aa7517cf01e65c009f6943c2b1e9/i/m/image_168_247.png",
+            "topSpec": {
+                "os": "Android",
+                "camera": "13 Megapixels",
+                "display": "PLS capacitive",
+                "storage": "16GB",
+                "battery": "2400mAh"
+            },
+            "colourVariant": {
+                "colour1": "Silver"
+            }
+        },
+        {
+            "mobileStock": "Now In Stock",
+            "fullSpec": {
+                "Mobile Weight": "208 g",
+                "USB version": "2.0",
+                "Stero bluetooth (A2DP)": "Yes",
+                "Resolutions": "1242 x 2688 pixels",
+                "WLan/WiFi Support": "Yes",
+                "Camera auto focus": "Yes",
+                "USB": "Micro USB",
+                "Capacity": "3174 mAh",
+                "Camera resolution ": "12 Megapixels",
+                "Display type": "Super AMOLED capacitive touchscreen, 16M colors",
+                "Screen Size (Diagonal)": "6.5 Inch",
+                "Video Recording": "Yes",
+                "Dimension": "157.5 x 77.4 x 7.7 mm",
+                "Additional Internal Storage": "No"
+            },
+            "sizeVariant": {
+                "size3": "128 GB",
+                "size1": "32 GB",
+                "size2": "64 GB"
+            },
+            "mobilePrice": 1066,
+            "mobileId": 118,
+            "mobileName": "Apple iPhone XS Max",
+            "imageUrl": "https://eshop.lycamobile.co.uk/pub/media/catalog/product/cache/c687aa7517cf01e65c009f6943c2b1e9/a/p/apple-iphone-xs-max-grey.jpg",
+            "topSpec": {
+                "os": "iOS",
+                "camera": "12 Megapixels",
+                "display": "Super AMOLED",
+                "storage": "64/256/512GB",
+                "battery": "3174 mAh"
+            },
+            "colourVariant": {
+                "colour1": "Grey",
+                "colour2": "Blue"
+            }
+        },
+        {
+            "mobileStock": "Now In Stock",
+            "fullSpec": {
+                "Mobile Weight": "177 g",
+                "USB version": "2.0",
+                "Stero bluetooth (A2DP)": "Yes",
+                "Resolutions": "1125 x 2436 pixels",
+                "WLan/WiFi Support": "Yes",
+                "Camera auto focus": "Yes",
+                "USB": "Micro USB",
+                "Capacity": "2658 mAh",
+                "Camera resolution ": "12 Megapixels",
+                "Display type": "Super AMOLED capacitive touchscreen, 16M colors",
+                "Screen Size (Diagonal)": "5.8 Inch",
+                "Video Recording": "Yes",
+                "Dimension": "143.6 x 70.9 x 7.7 mm",
+                "Additional Internal Storage": "No"
+            },
+            "sizeVariant": {
+                "size3": "128 GB",
+                "size1": "32 GB",
+                "size2": "64 GB"
+            },
+            "mobilePrice": 1002,
+            "mobileId": 119,
+            "mobileName": "Apple iPhone XS",
+            "imageUrl": "https://eshop.lycamobile.co.uk/pub/media/catalog/product/cache/c687aa7517cf01e65c009f6943c2b1e9/a/p/apple-iphone-xs-front.jpg",
+            "topSpec": {
+                "os": "iOS",
+                "camera": "12 Megapixels",
+                "display": "Super AMOLED",
+                "storage": "64/256/512GB",
+                "battery": "2658 mAh"
+            },
+            "colourVariant": {
+                "colour1": "Grey",
+                "colour2": "Blue"
+            }
+        },
+        {
+            "mobileStock": "Now In Stock",
+            "fullSpec": {
+                "Mobile Weight": "174 g",
+                "USB version": "2.0",
+                "Stero bluetooth (A2DP)": "Yes",
+                "Resolutions": "1125 x 2436 pixels",
+                "WLan/WiFi Support": "Yes",
+                "Camera auto focus": "Yes",
+                "USB": "2.0, proprietary reversible connector",
+                "Capacity": "2716mAh",
+                "Camera resolution ": "12 Megapixels",
+                "Display type": "Super AMOLED capacitive touchscreen, 16M colors",
+                "Screen Size (Diagonal)": "5.8 Inch",
+                "Video Recording": "Yes",
+                "Dimension": "143.6 x 70.9 x 7.7 mm",
+                "Additional Internal Storage": "64 GB",
+                "Bluetooth version": "5.0"
+            },
+            "sizeVariant": {
+                "size3": "128 GB",
+                "size1": "32 GB",
+                "size2": "64 GB"
+            },
+            "mobilePrice": 870,
+            "mobileId": 120,
+            "mobileName": "Apple iPhone X",
+            "imageUrl": "https://eshop.lycamobile.co.uk/pub/media/catalog/product/cache/c687aa7517cf01e65c009f6943c2b1e9/i/p/iphonex-grey-front.png",
+            "topSpec": {
+                "os": "iOS",
+                "camera": "12 Megapixels",
+                "display": "Super AMOLED",
+                "storage": "64 GB",
+                "battery": "2716mAh"
+            },
+            "colourVariant": {
+                "colour1": "Grey",
+                "colour2": "Blue"
+            }
+        },
+        {
+            "mobileStock": "Now In Stock",
+            "fullSpec": {
+                "Mobile Weight": "194 g",
+                "USB version": "2.0",
+                "Stero bluetooth (A2DP)": "Yes",
+                "Resolutions": "828 x 1792 pixels",
+                "WLan/WiFi Support": "Yes",
+                "Camera auto focus": "Yes",
+                "USB": "Micro USB",
+                "Capacity": "2942 mAh",
+                "Camera resolution ": "12 Megapixels",
+                "Display type": "IPS LCD capacitive touchscreen, 16M colors",
+                "Screen Size (Diagonal)": "6.1 Inch",
+                "Video Recording": "Yes",
+                "Dimension": "150.9 x 75.7 x 8.3 mm",
+                "Additional Internal Storage": "No"
+            },
+            "sizeVariant": {
+                "size3": "128 GB",
+                "size1": "32 GB",
+                "size2": "64 GB"
+            },
+            "mobilePrice": 754,
+            "mobileId": 121,
+            "mobileName": "Apple iPhone XR",
+            "imageUrl": "https://eshop.lycamobile.co.uk/pub/media/catalog/product/cache/c687aa7517cf01e65c009f6943c2b1e9/a/p/apple-iphone-xr-front.jpg",
+            "topSpec": {
+                "os": "iOS",
+                "camera": "12 Megapixels",
+                "display": "IPS LCD",
+                "storage": "64/128/256GB",
+                "battery": "2942 mAh"
+            },
+            "colourVariant": {
+                "colour1": "Grey",
+                "colour2": "Blue"
+            }
+        },
+        {
+            "mobileStock": "Now In Stock",
+            "fullSpec": {
+                "Mobile Weight": "202 g",
+                "USB version": "2.0",
+                "Stero bluetooth (A2DP)": "Yes",
+                "Resolutions": "1080 x 1920 pixels",
+                "WLan/WiFi Support": "Yes",
+                "Camera auto focus": "Yes",
+                "USB": "2.0, proprietary reversible connector",
+                "Capacity": "2691mAh",
+                "Camera resolution ": "12 Megapixels",
+                "Display type": "LED-backlit IPS LCD, capacitive touchscreen",
+                "Screen Size (Diagonal)": "5.5 Inch",
+                "Video Recording": "Yes",
+                "Dimension": "158.4 x 78.1 x 7.5 mm",
+                "Additional Internal Storage": "64 GB",
+                "Bluetooth version": "5.0"
+            },
+            "sizeVariant": {
+                "size3": "128 GB",
+                "size1": "32 GB",
+                "size2": "64 GB"
+            },
+            "mobilePrice": 678,
+            "mobileId": 122,
+            "mobileName": "Apple iPhone 8 Plus",
+            "imageUrl": "https://eshop.lycamobile.co.uk/pub/media/catalog/product/cache/c687aa7517cf01e65c009f6943c2b1e9/i/p/iphone-8plus-front.jpg",
+            "topSpec": {
+                "os": "iOS",
+                "camera": "12 Megapixels",
+                "display": "LED-backlit IPS LCD",
+                "storage": "64 GB",
+                "battery": "2691mAh"
+            },
+            "colourVariant": {
+                "colour1": "Grey",
+                "colour2": "Blue"
+            }
+        },
+        {
+            "mobileStock": "Now In Stock",
+            "fullSpec": {
+                "Mobile Weight": "148g",
+                "USB version": "2.0",
+                "Stero bluetooth (A2DP)": "Yes",
+                "Resolutions": "750 x 1334 pixels",
+                "WLan/WiFi Support": "Yes",
+                "Camera auto focus": "Yes",
+                "Capacity": "1821mAh",
+                "Camera resolution ": "12 Megapixels",
+                "Display type": "LED-backlit IPS LCD",
+                "Screen Size (Diagonal)": "4.7 Inch",
+                "Video Recording": "Yes",
+                "Dimension": "138.4 x 67.3 x 7.3 mm",
+                "Additional Internal Storage": "64GB",
+                "Bluetooth version": "5.0"
+            },
+            "sizeVariant": {
+                "size3": "128 GB",
+                "size1": "32 GB",
+                "size2": "64 GB"
+            },
+            "mobilePrice": 594,
+            "mobileId": 123,
+            "mobileName": "Apple iPhone 8",
+            "imageUrl": "https://eshop.lycamobile.co.uk/pub/media/catalog/product/cache/c687aa7517cf01e65c009f6943c2b1e9/i/m/image_170_271_6.png",
+            "topSpec": {
+                "os": "iOS",
+                "camera": "12 Megapixels",
+                "display": "LED-backlit IPS LCD",
+                "storage": "64GB",
+                "battery": "1821mAh"
+            },
+            "colourVariant": {
+                "colour1": "Grey",
+                "colour2": "Blue"
+            }
+        },
+        {
+            "mobileStock": "Now In Stock",
+            "fullSpec": {
+                "Mobile Weight": "188g",
+                "Screen Size (Diagonal)": "5.5 Inch",
+                "Stero bluetooth (A2DP)": "Yes",
+                "Resolutions": "1080 x 1920 pixels",
+                "WLan/WiFi Support": "Yes",
+                "Camera auto focus": "Yes",
+                "Capacity": "2900mAh",
+                "Camera resolution ": "12 Megapixels",
+                "Display type": "LED-backlit IPS LCD",
+                "USB version": "2.0",
+                "Video Recording": "Yes",
+                "Dimension": "158.2 x 77.9 x 7.3 mm",
+                "Bluetooth version": "4.2"
+            },
+            "sizeVariant": {
+                "size3": "128 GB",
+                "size1": "32 GB",
+                "size2": "64 GB"
+            },
+            "mobilePrice": 565,
+            "mobileId": 124,
+            "mobileName": "Apple iPhone 7 Plus",
+            "imageUrl": "https://eshop.lycamobile.co.uk/pub/media/catalog/product/cache/c687aa7517cf01e65c009f6943c2b1e9/i/p/iphone-7-plus-front.jpg",
+            "topSpec": {
+                "os": "iOS",
+                "camera": "12 Megapixels",
+                "display": "LED-backlit IPS LCD",
+                "storage": "32GB / 128GB",
+                "battery": "2900mAh"
+            },
+            "colourVariant": {
+                "colour1": "Grey",
+                "colour2": "Blue"
+            }
+        },
+        {
+            "mobileStock": "Now In Stock",
+            "fullSpec": {
+                "Mobile Weight": "138g",
+                "USB version": "2.0",
+                "Stero bluetooth (A2DP)": "Yes",
+                "Resolutions": "750 x 1334 pixels",
+                "WLan/WiFi Support": "Yes",
+                "Camera auto focus": "Yes",
+                "Capacity": "1960mAh",
+                "Camera resolution ": "12 Megapixels",
+                "Display type": "LED-backlit IPS LCD",
+                "Screen Size (Diagonal)": "4.7 Inch",
+                "Video Recording": "Yes",
+                "Dimension": "138.3 x 67.1 x 7.1 mm",
+                "Additional Internal Storage": "32GB",
+                "Bluetooth version": "4.2"
+            },
+            "sizeVariant": {
+                "size3": "128 GB",
+                "size1": "32 GB",
+                "size2": "64 GB"
+            },
+            "mobilePrice": 445,
+            "mobileId": 125,
+            "mobileName": "Apple iPhone 7",
+            "imageUrl": "https://eshop.lycamobile.co.uk/pub/media/catalog/product/cache/c687aa7517cf01e65c009f6943c2b1e9/i/m/image_166_269.png",
+            "topSpec": {
+                "os": "iOS",
+                "camera": "12 Megapixels",
+                "display": "LED-backlit IPS LCD",
+                "storage": "32GB",
+                "battery": "1960mAh"
+            },
+            "colourVariant": {
+                "colour1": "Grey",
+                "colour2": "Blue"
+            }
+        }
+    ]
+}
