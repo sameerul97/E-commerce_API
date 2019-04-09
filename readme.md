@@ -23,3 +23,14 @@ http://ecomapi.sameerul.com:3009/bestselling
 http://ecomapi.sameerul.com:3009/mostlywished
 ### Mostly reviewed 
 http://ecomapi.sameerul.com:3009/mostlyreviewed
+### All phone
+http://ecomapi.sameerul.com:3009/allphone
+### Get a phone
+  * requires "mobileId"
+http://ecomapi.sameerul.com:3009/getPhone/110
+^ Above routes includes full and top specfication.
+### Get auestion and answers for a phone
+http://ecomapi.sameerul.com:3009/productReview/121
+### Get all reviews 
+http://ecomapi.sameerul.com:3009/productReview/121
+
