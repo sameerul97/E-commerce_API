@@ -16,7 +16,10 @@ There is a python script file which automatically scrapes the web and creates an
 ## Script file (rest.js)
 This file is incharge of pushing all the Data collected using Python to MongoDB. Simply pushing data one by one in a loop.
 
-## Routes included
+## Routes 
+### Best selling
 http://ecomapi.sameerul.com:3009/bestselling
+### Mostly wished
 http://ecomapi.sameerul.com:3009/mostlywished
-http://ecomapi.sameerul.com:3009/mostylreviwewd
+### Mostly reviewed 
+http://ecomapi.sameerul.com:3009/mostlyreviewed
