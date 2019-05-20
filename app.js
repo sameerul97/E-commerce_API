@@ -53,8 +53,6 @@ passport.deserializeUser(User.deserializeUser());
 
 
 mongoose.connect('mongodb://127.0.0.1/Ecommerce');
-// mongoose.connect("mongodb://mLab_Sameer:saharjath12@ds137863.mlab.com:37863/notes_restapi");
-
 var db = mongoose.connection;
 // mongoose.Promise = global.Promise;
 
