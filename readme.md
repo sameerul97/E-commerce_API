@@ -2,6 +2,7 @@
 Created an RESTful API using Express JS and uses MongoDB as data warehouse. 
 Used mLab as DataSource. 
 Hosted the Node API in Raspberry Pi 
+Note: To run it locally you need mongoDB installed on your computer
 ### 🚀 [Demo](http://ecomapi.sameerul.com:3009/allPhones)
 
 ## ⚙ Installation
